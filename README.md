@@ -2,6 +2,9 @@
 
 <p>This is a full-stack web application that provides JWT-based authentication and manages attendance data. The backend is built using <strong>Node.js</strong> and <strong>Express</strong>, connected to <strong>MongoDB</strong> for database storage. The frontend is created using <strong>React</strong> to provide a user interface to interact with the backend APIs.</p>
 <p>GitHub Repository: <a href="https://github.com/1ManjeetSingh/Aspireit_assignment">https://github.com/1ManjeetSingh/Aspireit_assignment</a></p>
+<p><b>Name:</b>&nbsp;Manjeet Singh</p>
+<p><b>Phone:</b>&nbsp;7742398066</p>
+<p><b>Email:</b>&nbsp;<a href="mailto:20je0536@ee.iitism.ac.in">20je0536@ee.iitism.ac.in</p>
 <h2>Table of Contents</h2>
 <ul>
     <li><a href="#features">Features</a></li>
