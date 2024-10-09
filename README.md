@@ -4,7 +4,7 @@
 <p>GitHub Repository: <a href="https://github.com/1ManjeetSingh/Aspireit_assignment">https://github.com/1ManjeetSingh/Aspireit_assignment</a></p>
 <p><b>Name:</b>&nbsp;Manjeet Singh</p>
 <p><b>Phone:</b>&nbsp;7742398066</p>
-<p><b>Email:</b>&nbsp;<a href="mailto:20je0536@ee.iitism.ac.in">20je0536@ee.iitism.ac.in</p>
+<p><b>Email:</b>&nbsp;<a href="mailto:20je0536@ee.iitism.ac.in">20je0536@ee.iitism.ac.in</a></p>
 <h2>Table of Contents</h2>
 <ul>
     <li><a href="#features">Features</a></li>
